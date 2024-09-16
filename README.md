@@ -48,4 +48,4 @@ Licença
 Este projeto é distribuído sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
 Direitos Autorais
-© 2023 andretsc.com
+© 2023 [andretsc.com](https://andretsc.com)
